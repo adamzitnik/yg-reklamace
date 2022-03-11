@@ -1,0 +1,21 @@
+body{
+    background: $bg;
+    max-width: 1920px;
+    margin: 0 auto;
+    font-family: 'Barlow', sans-serif;
+    color: $textColorLighter;
+}
+
+.content{
+    margin: 20px 0;
+    border-radius: 3px;
+    box-shadow: 2px 2px 11px rgba(#2A2F33, 0.05);
+    background: #fff;
+    padding: 20px;
+    min-height: 500px;
+}
+
+.container{
+    width: 1400px;
+    margin: 0 auto;
+}
